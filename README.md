@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Dos Santos Da Silva 👋
 
-Computer Science student in Brazil, building toward a career in **robotics software**. I design robots end to end, from fabrication-ready code CAD to ROS 2 simulation, and I check every result against a datasheet, a hand calculation or the CAD itself before I call it done.
+Computer Science student at Universidade Estácio de Sá (Brazil), building toward a career in **robotics software**. I design robots end to end, from fabrication-ready code CAD to ROS 2 simulation, and I check every result against a datasheet, a hand calculation or the CAD itself before I call it done.
 
 Open to robotics roles in Brazil and abroad.
 
