@@ -4,7 +4,7 @@ I'm **Daniel**, a Computer Science student in Brazil who designs and builds mach
 
 I love taking a project all the way from the first idea to something that actually works.
 
-Robots are where I started, but I want to go further and build all types of things such as drones, motors and even rockets.
+Robots are where I started, but I want to go further and build all kinds of things, like drones, motors and even rockets.
 
 Hardware costs money, so my machines live in simulation for now, but every part is designed to be built for real.
 
