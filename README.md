@@ -8,6 +8,8 @@ Robots are where I started, but I want to go further and build all kinds of thin
 
 Hardware costs money, so my machines live in simulation for now, but every part is designed to be built for real.
 
+My main stack is ROS 2, Python, Gazebo and MoveIt 2. My favorite tools are CadQuery for CAD, Obsidian for my notes and Claude Code as my pair programmer.
+
 My favorite project so far is my [**robot arm**](https://github.com/Danion1/robot-arm-moveit2).
 
 <a href="https://github.com/Danion1/robot-arm-moveit2"><img src="https://raw.githubusercontent.com/Danion1/robot-arm-moveit2/main/midia/demo.gif" alt="Simulated pick and place: the arm picks a 20 mm cube in Gazebo and places it on the other side" width="360"></a>
