@@ -2,7 +2,7 @@
 
 I'm **Daniel**, a Computer Science student in Brazil who designs and builds machines from scratch.
 
-I love taking a project all the way from the first idea to something that actually works. I do the calculations, the CAD, the electronics and the code myself, test everything in simulation, and then build it.
+I love taking a project all the way from the first idea to something that actually works.
 
 Robots are where I started, but I want to go further and build drones, motors and even rockets.
 
