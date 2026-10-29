@@ -1,4 +1,4 @@
-# Hi, I'm Daniel 👋
+# Hi, I'm Daniel Dos Santos Da Silva 👋
 
 Computer Science student in Brazil, building toward a career in **robotics software**. I design robots end to end, from fabrication-ready code CAD to ROS 2 simulation, and I check every result against a datasheet, a hand calculation or the CAD itself before I call it done.
 
@@ -33,5 +33,4 @@ Serial arm with a rack-and-pinion gripper, designed for PLA printing around DYNA
 
 ## Contact
 
-<!-- TODO(Daniel): LinkedIn URL and preferred contact before publishing -->
-- LinkedIn: *(link)*
+- Email: [danion.neros@gmail.com](mailto:danion.neros@gmail.com)
